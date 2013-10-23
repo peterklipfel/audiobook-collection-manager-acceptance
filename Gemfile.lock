@@ -55,6 +55,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   cucumber
@@ -62,4 +63,3 @@ DEPENDENCIES
   poltergeist (>= 1.4.0)
   rest-client
   rspec-expectations
-  selenium-webdriver
