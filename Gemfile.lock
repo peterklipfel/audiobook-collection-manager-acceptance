@@ -63,3 +63,4 @@ DEPENDENCIES
   poltergeist (>= 1.4.0)
   rest-client
   rspec-expectations
+  selenium-webdriver
